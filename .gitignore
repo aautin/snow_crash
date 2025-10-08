@@ -1,0 +1,4 @@
+*.vbox
+*.vbox-prev
+*.vdi
+Logs/
