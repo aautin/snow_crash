@@ -1,0 +1,3 @@
+[submodule "level01/john"]
+	path = level01/john
+	url = https://github.com/openwall/john.git

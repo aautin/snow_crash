@@ -22,6 +22,7 @@ Find the user flag00's files, use their content in an [encryption solver](https:
 
 3. Use it in an [encryption identifier](https://www.dcode.fr/identification-chiffrement) to detect potential ciphers.
 	Results: Chiffre Affine => `A=1,B=15	nottoohardhere`, `A=17,B=3	dallaavqrhvere` and so on...
+
 	<img src="resource/identifier0.png" alt="identifier_image0" height="350"/>
 	<img src="resource/identifier1.png" alt="identifier_image1" height="350"/>
 

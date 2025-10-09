@@ -1,4 +1,10 @@
+# VM files
 *.vbox
 *.vbox-prev
 *.vdi
 Logs/
+
+# downloaded files
+rockyou.txt
+rockyou.txt.gz
+
