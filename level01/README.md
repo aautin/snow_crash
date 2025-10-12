@@ -2,6 +2,8 @@
 
 ## Summary
 
+Find the user flag01's password hash in /etc/passwd, use John the Ripper to crack it and get the flag.
+
 ## Workflow
 
 1. The directory `/home/user/level01` is empty. Searching for files owned by user `flag01` but nothing.
