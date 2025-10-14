@@ -2,7 +2,7 @@
 
 ## Summary
 
-To be continued...
+This level demonstrates a PHP code injection vulnerability in the `level06.php` script, which can be exploited via a crafted input file. By leveraging the SUID binary `level06`, an attacker can execute arbitrary PHP code and retrieve the flag.
 
 ## Workflow
 
