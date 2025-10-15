@@ -27,6 +27,24 @@ This level demonstrates a path traversal vulnerability in a SUID binary. The pro
     quif5eloekouj29ke0vouxean
     ```
 
+4. Connect to the flag08 account using the retrieved token, then run getflag.
+    ```➜  level08 git:(aautin) ssh flag08@<vm_ip_address> -p 4242
+        _____                      _____               _     
+        / ____|                    / ____|             | |    
+        | (___  _ __   _____      _| |     _ __ __ _ ___| |__  
+        \___ \| '_ \ / _ \ \ /\ / / |    | '__/ _` / __| '_ \ 
+        ____) | | | | (_) \ V  V /| |____| | | (_| \__ \ | | |
+        |_____/|_| |_|\___/ \_/\_/  \_____|_|  \__,_|___/_| |_|
+                                                            
+    Good luck & Have fun
+
+            <vm_ip_address> 
+    flag08@<vm_ip_address>'s password: 
+    Don't forget to launch getflag !
+    flag08@SnowCrash:~$ getflag
+    Check flag.Here is your token : 25749xKZ8L7DkSCwJkT9dyv6f
+    ```
+
 ## Security Model Deep Dive
 
 ### Unix File Permissions - The Three Categories
