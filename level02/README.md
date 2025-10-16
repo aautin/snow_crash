@@ -30,8 +30,8 @@ If we print the content in Hex dump we saw the correspondance of the charactere 
 So let's try to del the write and dell when writing the password.
 It gives us `ft_waNDReL0L`
 
-`level02@SnowCrash:~$ su flag02 /
-Password: /
-Don't forget to launch getflag !/
-flag02@SnowCrash:~$ /
+`level02@SnowCrash:~$ su flag02
+Password: 
+Don't forget to launch getflag !
+flag02@SnowCrash:~$ 
 `
