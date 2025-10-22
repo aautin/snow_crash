@@ -21,7 +21,7 @@ This level demonstrates a privilege escalation vulnerability by manipulating CPU
 
 3. Disassemble the main function to understand the UID verification process.
     ```
-    level13@SnowCrash:~$ gdb -q ./level13
+    level13@SnowCrash:~$ gdb ./level13
     Reading symbols from /home/user/level13/level13...(no debugging symbols found)...done.
     (gdb) disas main
     Dump of assembler code for function main:
