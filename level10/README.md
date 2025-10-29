@@ -81,7 +81,7 @@ In one you launch switcher
 Another listener
 Another runner
 
-![Capture d'écran — écran de connexion](/home/melmarti/snow_crash/level10/Screenshot from 2025-10-29 16-33-10.png)
+![Capture d'écran — écran de connexion](Screenshot from 2025-10-29 16-33-10.png)
 
 ---
 
