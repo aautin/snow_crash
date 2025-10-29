@@ -83,7 +83,7 @@ Another listener
 Another runner
 
 <p align="center">
-  <img src="Screenshot from 2025-10-29 16-33-10.png" alt="level10 screenshot" width="720">
+  <img src="Screenshot from 2025-10-29 16-33-10.png" alt="level10 screenshot" width="1120">
 </p>
 
 
