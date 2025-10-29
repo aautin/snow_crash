@@ -81,7 +81,10 @@ In one you launch switcher
 Another listener
 Another runner
 
-![Capture d'écran — écran de connexion](Screenshot from 2025-10-29 16-33-10.png)
+<p align="center">
+  <img src="docs/screenshots/screenshot-level10.png" alt="level10 screenshot" width="720">
+</p>
+
 
 ---
 
