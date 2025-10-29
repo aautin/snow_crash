@@ -20,7 +20,6 @@ Let's use the folder /dev/shm for that, we have all the rights in it.
 
 ```bash
 level08@SnowCrash:~$ ln -s /home/user/level08/token /dev/shm/yo
-level08@SnowCrash:~$ 
 ```
 
 -> Permission deny
