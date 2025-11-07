@@ -41,12 +41,14 @@ level11@SnowCrash:~$
 ```
 
 This is a Lua TCP server on 127.0.0.1:5151.
+
 hash(pass) uses io.popen("echo "..pass.." | sha1sum") — .. in lua means concatenates strings.
+
 we saw that the shell command shasum is used, so we now that shell command can be injected. (there is no sanitization of the input)
 
 ## Methods
 
--> We will connect to the server throught nc. And inject the command getflag when the field "password" is ask.
+-> We will connect to the server throught nc. And inject the command getflag when the field "password" is asked.
 
 We can ask that the result shuld be write in a file. 
 after that we will cat the file.
