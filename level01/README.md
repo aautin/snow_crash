@@ -37,7 +37,9 @@ Find the user flag01's password hash in /etc/passwd, use John the Ripper to crac
 
 5. Crack the hash with John the Ripper
 	```
-	level01 git:(aautin) ✗ cd john/run
+ 	level01 git:(aautin) ✗ cd john/src
+ 	level01 git:(aautin) ✗ ./configure && cmake
+ 	level01 git:(aautin) ✗ cd ../run
 	level01 git:(aautin) ✗ ./john --wordlist=../../rockyou.txt ../hash
 	Using default input encoding: UTF-8
 	Loaded 1 password hash (descrypt, traditional crypt(3) [DES 256/256 AVX2])
